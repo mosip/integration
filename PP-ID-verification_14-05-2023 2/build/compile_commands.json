@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/SEAL-3.6  -g   -pthread -std=gnu++17 -o CMakeFiles/sealdemo.dir/cs.cpp.o -c /home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/cs.cpp",
+  "file": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/cs.cpp"
+},
+{
+  "directory": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/SEAL-3.6  -g   -pthread -std=gnu++17 -o CMakeFiles/sealdemo.dir/encrypteduser.cpp.o -c /home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/encrypteduser.cpp",
+  "file": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/encrypteduser.cpp"
+},
+{
+  "directory": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/SEAL-3.6  -g   -pthread -std=gnu++17 -o CMakeFiles/sealdemo.dir/dbgen.cpp.o -c /home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/dbgen.cpp",
+  "file": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/dbgen.cpp"
+},
+{
+  "directory": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/SEAL-3.6  -g   -pthread -std=gnu++17 -o CMakeFiles/sealdemo.dir/user.cpp.o -c /home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/user.cpp",
+  "file": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/user.cpp"
+},
+{
+  "directory": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/SEAL-3.6  -g   -pthread -std=gnu++17 -o CMakeFiles/sealdemo.dir/tpp.cpp.o -c /home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/tpp.cpp",
+  "file": "/home/deepinder/Desktop/HE_Schemes/mosip-privacy-2021/SEAL/tpp.cpp"
+}
+]
