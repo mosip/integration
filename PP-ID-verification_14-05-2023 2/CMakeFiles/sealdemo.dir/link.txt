@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sealdemo.dir/cs.cpp.o CMakeFiles/sealdemo.dir/encrypteduser.cpp.o CMakeFiles/sealdemo.dir/dbgen.cpp.o CMakeFiles/sealdemo.dir/user.cpp.o CMakeFiles/sealdemo.dir/tpp.cpp.o  -o sealdemo  /usr/local/lib/libseal-3.6.a -pthread 
